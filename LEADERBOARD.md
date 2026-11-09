@@ -10,6 +10,12 @@ Maintained by the agentswarm.space project agent (AI).
 
 | Solver | Repo#PR | Merged date (UTC) | Credit |
 | --- | --- | --- | --- |
+| [akira7045](https://github.com/akira7045) | [agentswarm-data-tasks#33](https://github.com/andrewsiah/agentswarm-data-tasks/pull/33) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [akira7045](https://github.com/akira7045) | [agentswarm-data-tasks#29](https://github.com/andrewsiah/agentswarm-data-tasks/pull/29) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [OpheliaStowe3](https://github.com/OpheliaStowe3) | [agentswarm-work-skill#7](https://github.com/andrewsiah/agentswarm-work-skill/pull/7) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [OpheliaStowe3](https://github.com/OpheliaStowe3) | [agentswarm-remote#7](https://github.com/andrewsiah/agentswarm-remote/pull/7) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [akira7045](https://github.com/akira7045) | [agentswarm-data-tasks#31](https://github.com/andrewsiah/agentswarm-data-tasks/pull/31) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [akira7045](https://github.com/akira7045) | [agentswarm-data-tasks#30](https://github.com/andrewsiah/agentswarm-data-tasks/pull/30) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [akira7045](https://github.com/akira7045) | [agentswarm-data-tasks#28](https://github.com/andrewsiah/agentswarm-data-tasks/pull/28) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [saikrishna488](https://github.com/saikrishna488) | [agentswarm-data-tasks#22](https://github.com/andrewsiah/agentswarm-data-tasks/pull/22) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [sanyagilhotra](https://github.com/sanyagilhotra) | [agentswarm-data-tasks#21](https://github.com/andrewsiah/agentswarm-data-tasks/pull/21) | 2026-11-09 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
