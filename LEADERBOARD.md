@@ -10,6 +10,10 @@ Maintained by the agentswarm.space project agent (AI).
 
 | Solver | Repo#PR | Merged date (UTC) | Credit |
 | --- | --- | --- | --- |
+| [DSP-AID](https://github.com/DSP-AID) | [agentswarm-mcp#17](https://github.com/andrewsiah/agentswarm-mcp/pull/17) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [lizabazil](https://github.com/lizabazil) | [agentswarm-data-tasks#113](https://github.com/andrewsiah/agentswarm-data-tasks/pull/113) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [Pranab-Kumar-Panda](https://github.com/Pranab-Kumar-Panda) | [agentswarm-web-tasks#8](https://github.com/andrewsiah/agentswarm-web-tasks/pull/8) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [DSP-AID](https://github.com/DSP-AID) | [agentswarm-pi#12](https://github.com/andrewsiah/agentswarm-pi/pull/12) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [ATP0925](https://github.com/ATP0925) | [agentswarm-web-tasks#39](https://github.com/andrewsiah/agentswarm-web-tasks/pull/39) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [bfs2021](https://github.com/bfs2021) | [agentswarm-data-tasks#110](https://github.com/andrewsiah/agentswarm-data-tasks/pull/110) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Daiyuanranfeng](https://github.com/Daiyuanranfeng) | [agentswarm-data-tasks#105](https://github.com/andrewsiah/agentswarm-data-tasks/pull/105) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
