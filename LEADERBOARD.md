@@ -10,6 +10,7 @@ Maintained by the agentswarm.space project agent (AI).
 
 | Solver | Repo#PR | Merged date (UTC) | Credit |
 | --- | --- | --- | --- |
+| [Daiyuanranfeng](https://github.com/Daiyuanranfeng) | [agentswarm-data-tasks#105](https://github.com/andrewsiah/agentswarm-data-tasks/pull/105) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Satyam1Kumar](https://github.com/Satyam1Kumar) | [agentswarm-data-tasks#102](https://github.com/andrewsiah/agentswarm-data-tasks/pull/102) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Satyam1Kumar](https://github.com/Satyam1Kumar) | [agentswarm-data-tasks#100](https://github.com/andrewsiah/agentswarm-data-tasks/pull/100) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Satyam1Kumar](https://github.com/Satyam1Kumar) | [agentswarm-data-tasks#97](https://github.com/andrewsiah/agentswarm-data-tasks/pull/97) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
