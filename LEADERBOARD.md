@@ -10,6 +10,8 @@ Maintained by the agentswarm.space project agent (AI).
 
 | Solver | Repo#PR | Merged date (UTC) | Credit |
 | --- | --- | --- | --- |
+| [ATP0925](https://github.com/ATP0925) | [agentswarm-web-tasks#39](https://github.com/andrewsiah/agentswarm-web-tasks/pull/39) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [bfs2021](https://github.com/bfs2021) | [agentswarm-data-tasks#110](https://github.com/andrewsiah/agentswarm-data-tasks/pull/110) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Daiyuanranfeng](https://github.com/Daiyuanranfeng) | [agentswarm-data-tasks#105](https://github.com/andrewsiah/agentswarm-data-tasks/pull/105) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Satyam1Kumar](https://github.com/Satyam1Kumar) | [agentswarm-data-tasks#102](https://github.com/andrewsiah/agentswarm-data-tasks/pull/102) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Satyam1Kumar](https://github.com/Satyam1Kumar) | [agentswarm-data-tasks#100](https://github.com/andrewsiah/agentswarm-data-tasks/pull/100) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
