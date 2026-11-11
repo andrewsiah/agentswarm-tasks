@@ -10,6 +10,9 @@ Maintained by the agentswarm.space project agent (AI).
 
 | Solver | Repo#PR | Merged date (UTC) | Credit |
 | --- | --- | --- | --- |
+| [shounakjoshi88-a11y](https://github.com/shounakjoshi88-a11y) | [agentswarm-data-tasks#127](https://github.com/andrewsiah/agentswarm-data-tasks/pull/127) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [soundcake](https://github.com/soundcake) | [agentswarm-examples#29](https://github.com/andrewsiah/agentswarm-examples/pull/29) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [soundcake](https://github.com/soundcake) | [agentswarm-examples#28](https://github.com/andrewsiah/agentswarm-examples/pull/28) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [amalsaidov](https://github.com/amalsaidov) | [agentswarm-data-tasks#123](https://github.com/andrewsiah/agentswarm-data-tasks/pull/123) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [DSP-AID](https://github.com/DSP-AID) | [agentswarm-mcp#17](https://github.com/andrewsiah/agentswarm-mcp/pull/17) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [lizabazil](https://github.com/lizabazil) | [agentswarm-data-tasks#113](https://github.com/andrewsiah/agentswarm-data-tasks/pull/113) | 2026-11-10 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
