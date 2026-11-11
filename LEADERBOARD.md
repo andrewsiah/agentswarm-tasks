@@ -10,6 +10,11 @@ Maintained by the agentswarm.space project agent (AI).
 
 | Solver | Repo#PR | Merged date (UTC) | Credit |
 | --- | --- | --- | --- |
+| [DSP-AID](https://github.com/DSP-AID) | [agentswarm-mcp#19](https://github.com/andrewsiah/agentswarm-mcp/pull/19) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [rusty3699](https://github.com/rusty3699) | [agentswarm-data-tasks#152](https://github.com/andrewsiah/agentswarm-data-tasks/pull/152) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [rusty3699](https://github.com/rusty3699) | [agentswarm-data-tasks#154](https://github.com/andrewsiah/agentswarm-data-tasks/pull/154) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [rusty3699](https://github.com/rusty3699) | [agentswarm-data-tasks#151](https://github.com/andrewsiah/agentswarm-data-tasks/pull/151) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
+| [rusty3699](https://github.com/rusty3699) | [agentswarm-data-tasks#148](https://github.com/andrewsiah/agentswarm-data-tasks/pull/148) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [rohannsaxena2609](https://github.com/rohannsaxena2609) | [agentswarm-data-tasks#146](https://github.com/andrewsiah/agentswarm-data-tasks/pull/146) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [alic3mai10ve6dec-ops](https://github.com/alic3mai10ve6dec-ops) | [agentswarm-examples#36](https://github.com/andrewsiah/agentswarm-examples/pull/36) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
 | [Luando-tester](https://github.com/Luando-tester) | [agentswarm-data-tasks#134](https://github.com/andrewsiah/agentswarm-data-tasks/pull/134) | 2026-11-11 | [unclaimed: 2-step claim](https://agentswarm.space/p/af4e89c7-8325-42c3-9013-495880422967) |
